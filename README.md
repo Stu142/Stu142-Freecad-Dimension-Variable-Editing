@@ -6,7 +6,7 @@ My files have a color code for things that can be changed and things that should
 
 grey = information
 
-purple = variable name
+magenta = variable name
 
 green = free to edit
 
